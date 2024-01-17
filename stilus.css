@@ -1,0 +1,29 @@
+header, article, aside, footer, section{
+    border: 1px solid darkgray;
+    padding: 10px;
+    box-shadow: 1px 1px 4px black;
+}
+
+nav{
+    border: 1px solid darkgray;
+    box-shadow: 1px 1px 4px black;
+}
+
+img{
+    width: 50%;
+}
+
+.table-bordered{
+    border: 1px solid gray;
+    box-shadow: 1px 1px 3px black;
+    
+}
+
+.table-responsive{
+    width: 100%;
+    padding-top: 10px;
+}
+
+.row{
+    margin: auto;
+}
